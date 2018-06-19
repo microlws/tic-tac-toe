@@ -4,16 +4,16 @@
 }
 
 .Main__Board {
-  margin-left: 65px;
   display: inline-flex;
   flex-wrap: wrap;
+  margin-left: 75px;
   width: 320px; 
 }
 
 .Main__Board-tiles {
-  line-height: 75px;
   border: 1px solid #000;
   display: inline-block;
   height: 80px;
+  line-height: 80px;
   width: 80px;
 }
